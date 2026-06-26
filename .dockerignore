@@ -1,0 +1,18 @@
+# Ambiente virtual local
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Metadados de versionamento e IDE
+.git/
+.gitignore
+.vscode/
+.idea/
+
+# Arquivos temporários
+scratch_*.txt
+*.log
