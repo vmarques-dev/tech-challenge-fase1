@@ -15,7 +15,7 @@ O objetivo não é substituir o(a) médico(a), mas oferecer uma **ferramenta de 
 
 - **Fonte:** [Breast Cancer Wisconsin (Diagnostic)](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data).
 - **Dimensões:** 569 amostras × 33 colunas originais.
-- **Alvo:** `diagnosis` — `M` (maligno) ou `B` (benigno).
+- **Alvo:** `diagnosis` - `M` (maligno) ou `B` (benigno).
 - **Features:** 30 medidas numéricas dos núcleos celulares (raio, textura, perímetro, área, suavidade, compacidade, concavidade, pontos côncavos, simetria e dimensão fractal), cada uma em três variações: **média** (`_mean`), **erro padrão** (`_se`) e **pior valor** (`_worst`).
 
 ### Distribuição das classes
